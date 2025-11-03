@@ -58,7 +58,7 @@ In general **Assembly** is very architecture dependent, so I only reach for it w
 ---
 
 ### **What I am CURRENTLY working on**
-So far, my main project is **PyLI**; open source encryption software WITH compression... again more can be seen at the link above if you haven't seen.
+So far, my main project is **PyKryptor**; open source encryption software WITH compression... again more can be seen at the link above if you haven't seen.
 
 Other than that you can expect more projects very soon for viewing!
 

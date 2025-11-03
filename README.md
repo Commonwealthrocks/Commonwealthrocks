@@ -20,9 +20,9 @@ Before you go on, you must know *one* thing. I am a **Windows** developer; in ot
 
 My go to language for basically anything; can't mess up with it. **Python** with it's vast community and libraries like `cryptography`, `discord`, `numpy`, `matplotlib` and so on. All have their specific use case, but which ones do I use?
 
-So far, **PyLI** is my *only* public project for **Python** and any other language. If you want more information you can go about and read it from the link.
+So far, **PyKryptor** is my *only* public project for **Python** and any other language. If you want more information you can go about and read it from the link.
 
-#### **[Use of cryptography (PyLI)](https://github.com/Commonwealthrocks/PyLI/)**
+#### **[Use of cryptography (PyKryptor)](https://github.com/Commonwealthrocks/PyKryptor/)**
 
 With that I also use **Python** for multi-media work, encryption (as seen), **Discord** bots and so on.
 

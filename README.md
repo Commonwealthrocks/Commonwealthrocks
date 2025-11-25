@@ -58,10 +58,15 @@ In general **Assembly** is very architecture dependent, so I only reach for it w
 ---
 
 ### **What I am CURRENTLY working on**
-So far, my main project is **PyKryptor**; open source encryption software WITH compression... again more can be seen at the link above if you haven't seen.
+"So far, my main project is **PyKryptor**; open source encryption software WITH compression... again more can be seen at the link above if you haven't seen."
 
-Other than that you can expect more projects very soon for viewing!
+Yeah well scrap THAT since I did make a new project finally; **CommonDoesThings**, not as good as **PyKryptor** but it sure is interesting and I plan to use it myself!
 
+In short **CommonDoesThings** is a **Python** library made in **C**, you can see the full `README.md` at the repo under **PyKryptor**.
+
+#### **[PyKryptor](https://github.com/Commonwealthrocks/PyKryptor)**
+
+#### **[CommonDoesThings](https://github.com/Commonwealthrocks/CommonDoesThings)**
 ---
 
 ### **Get in touch**

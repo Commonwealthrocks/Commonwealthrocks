@@ -12,7 +12,7 @@ Hi (once again), I'm **Common**... or **Commonwealthrocks**, or whatever alias I
 Besides **Python** I know my fair share of work with mostly `Win32API` in lower languages, especially **C / C++**.
 
 ### **What things do I make?**
-Well my main focus currently now and in most of my projects is encryption; this is most shown with my tool **PyKryptor** ([visit here if you wanna](https://github.com/Commonwealthrocks/PyKryptor/)), I won't get too far into rambling with this but in general. Most of my the things I make focus on / or strongly include encryption, generally because nowadays encryption is pretty... not normalized on the internet.
+Well my main focus currently now and in most of my projects is encryption; this is most shown with my tool **PyKryptor** ([visit here if you wanna](https://github.com/Commonwealthrocks/PyKryptor/)), I won't get too far into rambling with this but in general. Most of what I build focuses on or heavily involves encryption, mainly because good user controlled encryption tools still aren’t very common.
 
 Besides encryption I make just about anything that comes to mind, a lot of GUI work with `QtFramework6` or `PySide6`, website creation; although my **CSS** skills are questionable at times, low level tools or utils, backend / frontend work (servers) as LONG there isn't any database nonsense...
 

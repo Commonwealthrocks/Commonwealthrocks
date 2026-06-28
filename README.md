@@ -1,35 +1,23 @@
-# **Yo.**
-Welcome to my about me where you might or might not find something interesting!
+# **Commonwealthrocks**
+Probably your least favourite software developer...!
 
-## **About me**
+### **About me**
+Hi, I'm **Common**, or **Commonwealth**, or **Commonwealthrocks**, or whatever fucking alias I was using that day; I'm a low level developer that mostly works in **C**, **C++**, **Assembly x86-64**, **Python** (yes I am aware **Python** is a high level language, don't bother telling me) and so on.
 
-<img src="https://github.com/user-attachments/assets/4fc60013-11f9-449b-a31d-cd9626aea253" alt="folk" width="300" height="300">
+I mostly work with cryptography, self-hosting, multimedia work, GUI creation (`Qt6`, `Dear ImGui` and `Win32API`); I've spent most of my time studying and learning the **Win32** and **Win64** API, hence for that I am *MOSTLY* a **Windows** developer. **Linux** is a best effort, I am not fond enough of **macOS** and **BSD** to enjoy using them. Let alone develop for them.
 
+If something exists, I've probably tried to re-make it myself, sometimes it goes well; most times it doesn't.
 
-### **Who am I?**
-Hi (once again), I'm **Common**... or **Commonwealthrocks**, or whatever alias I was using said day; I'm a self taught developer / coder in many languages like **Python**, **C / C++**, **Assembly (x86 and x64)**, **JavaScript** and sometimes **Rust**. I mostly do work with **Python** though since prototyping is way easier.
+### **My projects**
+So far I'm working on two **C++** tools that are both free and licensed under the **MIT** license.
 
-Besides **Python** I know my fair share of work with mostly `Win32API` in lower languages, especially **C / C++**.
+#### [**PABS - Pyroforever's actual burning software**](https://github.com/Commonwealthrocks/pabs/)
+Who is **Pyroforever** you may ask? Well I dunno either! It was a tribute to **Pyro Studios**. Besides that; **PABS** is lightweight, ad-free and open source burning software made in **C++** and `Dear ImGui` for the GUI framework. **PABS** only works on **Windows** due to it relying on the `Image Mastering API V2` (made back in 2007 for **Vista**, the only good thing that came out of **Vista** besides aero). For more information checkout the [**README**](https://github.com/Commonwealthrocks/pabs/blob/main/README.md)!
 
-### **What things do I make?**
-Well my main focus currently now and in most of my projects is encryption; this is most shown with my tool **PyKryptor** ([visit here if you wanna](https://github.com/Commonwealthrocks/PyKryptor/)), I won't get too far into rambling with this but in general. Most of what I build focuses on or heavily involves encryption, mainly because good user controlled encryption tools still aren’t very common.
+#### [**MAGE - Make actually good encryption!**](https://github.com/Commonwealthrocks/mage/)
+Is this a fork of "**actually good encryption**" (**age**)? No. Not at all! Rather based on my first ever project **PyKryptor** where I always joked about a **C++** re-work; well the time HAS come. **MAGE** follows the route of `AEAD` only ciphers and supporting **Argon2id**. Besides the crypto side **MAGE** has a lot more features like keyfiles, compression, freedom to configure almost anything and so on; more can be seen on the [**README**](https://github.com/Commonwealthrocks/mage/blob/README.md)!
 
-Besides encryption I make just about anything that comes to mind, a lot of GUI work with `QtFramework6` or `PySide6`, website creation; although my **CSS** skills are questionable at times, low level tools or utils, backend / frontend work (servers) as LONG there isn't any database nonsense...
+### **Contact**
+If you have proper questions or inquiries about me, or my software. Feel free to reach out at `common@gmailbutnotreally.xyz`. Yes I am serious that is the domain.
 
-In general if something exists, I've probably tried to make something myself because free is more persistent than **Google's** ad disclosures.
-
-## **My project(s)**
-
-### **PyKryptor**
-**PyKryptor**; an open source, MIT licensed tool made in **Python** and **C** compiled with `Nuitka` that uses modern cryptographic standards while keeping things realistic. Since I myself have grown tired of the term *"military grade encryption"* and it's just `CBC` with `PBKDF2`; **PyKryptor** uses **AES-256-GCM** which a secure and authenticated encryption algorithm and for password hashing it uses **Argon2ID** ([wiki](https://en.wikipedia.org/wiki/Argon2)) or **PBKDF2** if you really want to / as a fallback.
-
-That being said the reason why I made it over using other tools is the set of features the app has like built in compression, a secure archive format, adjustable parameters, USB key support (USB-codec), secure memory clearing with **C** and so on.
-
-### **PABS - PYROFOREVER's actual burning software**
-Get this, me n' Mike were thinking "Why is most burning software so SHIT?", and then for jokes I said... "Why don't we make our own?"; AND THE REST WAS HISTORY. But on a real note, **PABS** is custom made burning software made in **C++**, was made with the goal to be free, open source, modern, MIT and lightweight. For the GUI rendering we use **Dear ImGui** *(**DX11** based)*. For more information, check out the repo itself; [PABS](https://github.com/commonwealthrocks/pabs/)
-
-### **gmailbutnotreally.xyz / gmoil**
-Now besides **PyKryptor and PABS** we have my site / mail server `gmailbutnotreally.xyz`; or well it's actual domain is `mail.gmailbutnotreally.xyz` is a custom mail server I made for **PRIVATE** use for me and my friends, which I host on a **Linux** VPS somewhere in the heart of the **Rhineland**. Bear in mind that you nor anyone outside of my knowledge will probably get past the login screen + **Cloudflare** DNS.
-
-## **That's it?**
-Yeah, that's pretty much it about me, if you want to concact me for some reason...? You may email me at the address `common@gmailbutnotreally.xyz`, more likely to respond to that than my gmail inbox to be honest.
+Also if you wish to contact me about AI-first platforms with anything involving SaaS APIs, please don't. I'm not your man for that.

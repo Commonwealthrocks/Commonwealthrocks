@@ -18,7 +18,7 @@ Who is **Pyroforever** you may ask? Well I dunno either! It was a tribute to **P
 Is this a fork of "**actually good encryption**" (**age**)? No. Not at all! Rather based on my first ever project **PyKryptor** where I always joked about a **C++** re-work; well the time HAS come. **MAGE** follows the route of `AEAD` only ciphers and supporting **Argon2id**. Besides the crypto side **MAGE** has a lot more features like keyfiles, compression, freedom to configure almost anything and so on; more can be seen on the [**README**](https://github.com/Commonwealthrocks/mage/blob/main/README.md)!
 
 #### [**CHOW-TIME**](https://github.com/Commonwealthrocks/chow-time/)
-A custom made 10 round, **ARX** (**A**dd **R**otate **X**OR) cipher with a 1024-bit and a 4-lane sponge MAC. Offering both a raw stream cipher (`CHOW`) and the **AEAD** version of it (`CHOW-TIME`); the cipher works on both `x86_64` and `ARM64` instructions and utilizes **Assembly** level optimization. The cipher is NOT audited by professionals; so is it better than `AES` or `ChaCha`? No. Not yet at least! More can be seen on the repo and in the `docs\` folder.
+Too lazy to explain lol, come back later.
 
 ### **Contact**
 If you have proper questions or inquiries about me, or my software. Feel free to reach out at `common@gmailbutnotreally.xyz`. Yes I am serious that is the domain.

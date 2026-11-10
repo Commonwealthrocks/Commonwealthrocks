@@ -1,5 +1,5 @@
 # **Commonwealthrocks**
-Hey, it is NIST's least favorite cryptographer!
+Yep yep yep, it's NIST's least favorite "cryptographer".
 
 If something exists, I've probably tried to re-make it myself, sometimes it goes well; most times it doesn't.
 
